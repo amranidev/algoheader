@@ -2,8 +2,8 @@
 
 // Programmed by amrani houssain 
 // http://www.facebook.com/houssain.amrani
-// amranihoussain@gmail.com
-// fst de tanger département Génie informatique
+// amranidev@gmail.com
+// https://github.com/amranidev
 
 
 #ifndef ALGO_HEADER // LIBARY START ALGO_HEADER
