@@ -1,7 +1,6 @@
 // algoheader version BETA
 
-// Programmed by amrani houssain 
-// http://www.facebook.com/houssain.amrani
+// author amrani houssain 
 // amranidev@gmail.com
 // https://github.com/amranidev
 
@@ -15,23 +14,22 @@
 #endif
 
       // declaration d'autre LIB
-#include<_mingw.h> // All the headers include this file. 
+      // All the headers include this file. 
 #include<stdio.h>
 #include<stdlib.h>
-#include<conio.h>
 #include<math.h>
 #include<string.h>
 
 // var
-#define entier __int32
+#define entier int
 #define reel float
 #define boolean bool
-#define caractere __int8
+#define caractere char
 
 // system I/O
 #define ecrire printf
 #define lire scanf
-#define fin printf("\n"); getch(); return 0;  }
+#define fin printf("\n"); getchar(); return 0;  }
 #define debut int main(){
 #define de &
 #define briser break
