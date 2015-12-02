@@ -18,5 +18,6 @@ ecrire("resultat : %i",b);
 
 ecrire("\npuissans resultat %f",puis(b,a));
 
+ecrire("\nb * 2 = %i",b);
 
 fin
